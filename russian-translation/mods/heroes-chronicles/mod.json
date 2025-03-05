@@ -1,7 +1,7 @@
 {
 	"name" : "Хроники Героев (Heroes Chronicles)",
 	"description" : "Русский перевод Хроники Героев, основанный на переводе компании \"Бука\".",
-	"version" : "1.0",
+	"version" : "1.0.1",
 	"author" : "AlexSnowLeo",
 	"contact" : "https://forum.vcmi.eu/u/snowleo/",
 	"modType" : "Translation",
@@ -13,7 +13,8 @@
 	"keepDisabled" : true,
 	"changelog" :
 	{
-		"1.0" : [ "Initial release" ]
+		"1.0"   : [ "Initial release" ],
+		"1.0.1" : [ "Fixed misprints" ]
 	},
 	"depends" : [
 		"chronicles"
