@@ -20,7 +20,8 @@
 		"1.3.3"   : [ "Campaign and game translation" ],
 		"1.3.4"   : [ "Warlock/Overlord fix" ],
 		"1.3.5"   : [ "Added Heroes Chronicles translation" ],
-		"1.3.6"   : [ "Fixed misprints" ]
+		"1.3.6"   : [ "Fixed misprints" ],
+		"1.3.7"   : [ "Fixed creatures and arts names, fix hero label" ]
 	},
 	"russian" : {
 		"name" : "Русский перевод",
